@@ -15,7 +15,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
         // Get the Intent that started this activity and extract the string
         Intent intent = getIntent();
-        String barcode = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
+        String barcode = intent.getStringExtra(MainActivity.BARCODE);
 //        String product = intent.getStringExtra(MainActivity.PRODUCT);
 
         TextView barcode_sent = findViewById(R.id.barcode_show);
