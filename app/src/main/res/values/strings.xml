@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="enter_bar_code">Ingrese Codigo de Barras</string>
+    <string name="enter_product_name">Ingrese nombre del producto</string>
+    <string name="button_send">Send</string>
+</resources>
