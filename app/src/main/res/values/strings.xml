@@ -3,4 +3,5 @@
     <string name="enter_bar_code">Ingrese codigo de barras</string>
     <string name="enter_product_name">Ingrese nombre del producto</string>
     <string name="button_send">Send</string>
+    <string name="xml_info">XML a enviar</string>>
 </resources>
